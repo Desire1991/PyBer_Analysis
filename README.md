@@ -6,9 +6,9 @@
 
 The city types were:
 
- -Urban
- -Suburban
- -Rural
+  -Urban
+  -Suburban
+  -Rural
 
 Results 
 - Describe the differences in ride sharing data among the different city types
