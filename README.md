@@ -3,8 +3,7 @@
 ##Overview of the Analysis
 
 **PyBer Rideshare company has been conducting research on their rideshare from the first quarter of 2019. The job here will be to conduct the analysis specifically looking at the city type vs. fare amount data. In this analysis I will show you  steps I used to arrive at my conclusions which I will reiterate in the summary section. **
-
-###The city types were:
+The city types were:
   -Urban 
   -Suburban 
   -Rural
