@@ -4,7 +4,10 @@
 
 **PyBer Rideshare company has been conducting research on their rideshare from the first quarter of 2019. The job here will be to conduct the analysis specifically looking at the city type vs. fare amount data. In this analysis I will show you  steps I used to arrive at my conclusions which I will reiterate in the summary section. **
 
-The city types were:-Urban -Suburban  -Rural
+The city types were:
+-Urban 
+-Suburban  
+-Rural
 
 Results 
 - Describe the differences in ride sharing data among the different city types
@@ -47,3 +50,8 @@ Recommendations
 PyBer should increase their marketing budgets  in all areas.The market is  oversaturated that many of drivers are not even getting work. Multiply the number of riders would be a very good step to start.
 Put a freeze on the hiring of new drivers in only the Urban cities until the customer base can catch up to the number of available drivers. Making sure that, each driver has at least 1 ride, during each quarter.
 Another analysis should be made into the Rural city data, there are too many questions that you can ask . Why are the fares so consistently getting low? Should there be more advertising? Is there just little to no demand for rideshare services in these areas? Do you need to make a hiring push out there to meet demand?
+The city types were:
+
+Urban
+Suburban
+Rural
