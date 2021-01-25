@@ -1,16 +1,19 @@
 #PyBer_Analysis
 
-Overview of the Analysis
-**PyBer Rideshare company has been conducting research on their rideshare from the first quarter of 2019. I am tasked with conducting analysis specifically looking at the city type vs. fare amount data. In this analysis I will walk you through the steps I took to arrive at my conclusions which I will reiterate in my summary section. **
+#Overview of the Analysis
+
+**PyBer Rideshare company has been conducting research on their rideshare from the first quarter of 2019. The job here will be to conduct the analysis specifically looking at the city type vs. fare amount data. In this analysis I will show you  steps I used to arrive at my conclusions which I will reiterate in the summary section. **
 
 The city types were:
 
 Urban
 Suburban
 Rural
-Results - Describe the differences in ride sharing data among the different city types
+
+Results 
+- Describe the differences in ride sharing data among the different city types
 Initial analysis:
-The initial data frames were separate. In order to begin our analysis, I merged the city_data and ride_data using a LEFT JOIN and the pyber_data_df was created.
+The initial data frames were separate. In order to begin our analysis, we have to merge the city_data and ride_data using a LEFT JOIN and the pyber_data_df which was created.
 
 The PyBer Summary
 
@@ -24,7 +27,7 @@ Example of the code.   ![avgs_per_Driver Ride](https://user-images.githubusercon
 
 Results - Observations
 PyBer Summary DataFrame![pyber_summary_df](https://user-images.githubusercontent.com/74233163/105681016-2a335c80-5eb6-11eb-9007-6b74bf2bc956.png)
-pybersummarydf
+
 
 Rideshare drivers in the Urban cities make significantly less per driver due to oversaturation. There were not enough rides within the 1st quarter of 2019 to give each driver at least 1 ride. At least 780 drivers did not have 1 passenger.
 
@@ -42,8 +45,9 @@ Multiline Chart
 
 Shows weekly values by the city type, starting the January 2019.
 
-Summary - Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Summary 
+- Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 Recommendations
-PyBer should increase their marketing budgets  in all areas. Your market is so oversaturated that many of your drivers are not receiving work. Increasing the number of customers would be a great first step.
-Put a freeze on the hiring of new drivers in only the Urban cities until the customer base can catch up to the number of available drivers. Goal being, each driver has at least 1 ride, during each quarter.
-Additional analysis should be put into your Rural city data, there are too many questions. Why are the fares so consistently low? Should there be more advertising? Is there just little to no demand for rideshare services in these areas? Do you need to make a hiring push out there to meet demand?
+PyBer should increase their marketing budgets  in all areas.The market is  oversaturated that many of drivers are not even getting work. Multiply the number of riders would be a very good step to start.
+Put a freeze on the hiring of new drivers in only the Urban cities until the customer base can catch up to the number of available drivers. Making sure that, each driver has at least 1 ride, during each quarter.
+Another analysis should be made into the Rural city data, there are too many questions that you can ask . Why are the fares so consistently getting low? Should there be more advertising? Is there just little to no demand for rideshare services in these areas? Do you need to make a hiring push out there to meet demand?
