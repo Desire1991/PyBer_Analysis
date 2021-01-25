@@ -18,14 +18,18 @@ The PyBer Summary
 
 The PyBer summary df has 5 components: Total Rides, Total Drivers, Total Fares, Avg Fare per Ride, and Avg Fare per Ride and avg Fare per Drivers.
 
-The Total Rides, Total Drivers, & Total Fares metrics were attained by creating a Series by passing the dataframe through a groupby function twice to create the series of objects which allows us to easily pass the series into a dataframe. Example of the code. ![Total_rides-and_Drivers:series](https://user-images.githubusercontent.com/74233163/105680874-fbb58180-5eb5-11eb-9be6-b4c4b0975d9f.png)
+The Total Rides, Total Drivers, & Total Fares metrics were attained by creating a Series by passing the dataframe through a groupby function twice to create the series of objects which allows us to easily pass the series into a dataframe. Example of the code.
+![Total_rides-and_Drivers:series](https://user-images.githubusercontent.com/74233163/105680874-fbb58180-5eb5-11eb-9be6-b4c4b0975d9f.png)
 
 The last two: Average fare per ride and Average fare per driver used the division of the previously created variables.
 
-Example of the code.   ![avgs_per_Driver Ride](https://user-images.githubusercontent.com/74233163/105681015-299ac600-5eb6-11eb-9643-d7d3736ecb7b.png)
+Example of the code.   
+![avgs_per_Driver Ride](https://user-images.githubusercontent.com/74233163/105681015-299ac600-5eb6-11eb-9643-d7d3736ecb7b.png)
 
-Results - Observations
-PyBer Summary DataFrame![pyber_summary_df](https://user-images.githubusercontent.com/74233163/105681016-2a335c80-5eb6-11eb-9007-6b74bf2bc956.png)
+Results
+- Observations
+PyBer Summary DataFrame 
+![pyber_summary_df](https://user-images.githubusercontent.com/74233163/105681016-2a335c80-5eb6-11eb-9007-6b74bf2bc956.png)
 
 
 Rideshare drivers in the Urban cities make significantly less per driver due to oversaturation. There were not enough rides within the 1st quarter of 2019 to give each driver at least 1 ride. At least 780 drivers did not have 1 passenger.
