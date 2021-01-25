@@ -18,7 +18,9 @@ The PyBer Summary
 
 The PyBer summary df has 5 components: Total Rides, Total Drivers, Total Fares, Avg Fare per Ride, and Avg Fare per Ride and avg Fare per Drivers.
 
-The Total Rides, Total Drivers, & Total Fares metrics were attained by creating a Series by passing the dataframe through a groupby function twice to create the series of objects which allows us to easily pass the series into a dataframe. Example of the code.
+The Total Rides, Total Drivers, & Total Fares metrics were attained by creating a Series by passing the dataframe through a groupby function twice to create the series of objects which allows us to easily pass the series into a dataframe.
+
+Example of the code.
 
 ![Total_rides-and_Drivers:series](https://user-images.githubusercontent.com/74233163/105680874-fbb58180-5eb5-11eb-9be6-b4c4b0975d9f.png)
 
